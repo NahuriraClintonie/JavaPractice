@@ -1,2 +1,2 @@
 # JavaPractice
-This repository is for practicing Java for internship assessment
+This repository is for practicing Java springboot framework
